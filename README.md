@@ -1,2 +1,2 @@
-# git
-how to user github?
+#Trần Vũ Hoàng
+#16022372@vnu.edu.vn
